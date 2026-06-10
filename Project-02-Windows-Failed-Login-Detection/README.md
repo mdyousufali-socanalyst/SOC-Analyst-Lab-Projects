@@ -34,4 +34,4 @@ See attached screenshots inside this project folder.
 
 ## Conclusion
 
-Successfully configured and tested Windows failed login detection using Wazuh SIEM. The lab demonstrated the ability to collect, monitor, and analyze authentication failure events, providing a foundation for brute-force attack detection, threat hunting, and SOC monitoring activities.
+Successfully configured and tested Windows failed login detection using Wazuh SIEM. The lab demonstrated the ability to collect, monitor, and analyze authentication failure events, providing a foundation for brute-force attack detection, threat hunting, and SOC operations.
