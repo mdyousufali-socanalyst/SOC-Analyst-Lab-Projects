@@ -1,25 +1,31 @@
-# Project 02: Failed Login Detection (Brute Force Monitoring)
+Project 02 - Windows Failed Login Detection (Brute Force Monitoring)
+Objective
+To monitor and alert on unauthorized login attempts (Event ID 4625) using Wazuh SIEM to detect potential brute-force activities on a Windows endpoint.
 
-## Objective
-To monitor and alert on unauthorized login attempts (Event ID 4625) using Wazuh SIEM to detect potential brute-force activities.
+Lab Environment
+Wazuh Server
 
-## Lab Environment
-- Wazuh Server
-- Windows 10 Endpoint
-- Wazuh Agent
+Windows 10/11 Endpoint
 
-## Methodology
-1. **Windows Audit Policy**: Enabled "Audit Logon Events" (Failure) in the Windows Local Security Policy.
-2. **Log Ingestion**: Verified Windows Security logs are being forwarded to the Wazuh Manager.
-3. **Simulation**: Performed intentional failed login attempts (Event ID 4625) on the endpoint.
-4. **Detection**: Used Wazuh Discover dashboard to filter and visualize authentication failure events.
+Wazuh Agent
 
-## Key Findings
-- Successfully captured and visualized multiple failed login attempts.
-- Verified that the SIEM correctly identifies and logs authentication failures in real-time.
+Windows Security Event Logs
 
-## Screenshots
-[Insert your screenshots here]
+Tasks Performed
+Configured Audit Policy: Modified Windows Local Security Policy to enable "Audit Logon Events" (Failure).
 
-## Result
-Verified the integrity of the security monitoring pipeline and confirmed that the SIEM is correctly parsing and displaying authentication failure events.
+Log Integration: Ensured Wazuh Agent is successfully forwarding Windows Security logs to the Wazuh Manager.
+
+Threat Simulation: Performed intentional failed login attempts (Event ID 4625) to trigger security events.
+
+Detection & Analysis: Filtered logs in the Wazuh Discover dashboard to isolate and verify the authentication failure events.
+
+Results
+Successfully captured and visualized multiple failed login attempts.
+
+Verified that the SIEM correctly identifies and logs authentication failures in real-time.
+
+The monitoring pipeline is confirmed to be operational for detecting suspicious authentication patterns.
+
+Conclusion: 
+Successfully configured and tested a detection mechanism for failed login attempts (Event ID 4625). This lab demonstrates the ability to monitor authentication security and serves as a foundational step for detecting brute-force attacks in an enterprise environment.
