@@ -7,10 +7,12 @@ Welcome to my SOC Analyst portfolio. Here, I document my hands-on experience in 
   - **Focus:** Deploying Wazuh SIEM, Sysmon integration, and CIS compliance assessment.
   - *Status: Completed*
 
-- [Project 02: Windows Failed Login Detection with Wazuh]
+## Project 02: Windows Failed Login Detection with Wazuh
+- **Focus:** [Monitoring Windows authentication events and analyzing Event ID 4625 failed login attempts.](https://github.com/mdyousufali-socanalyst/SOC-Lab-Projects/tree/main/Project-02-Windows-Failed-Login-Detection)
   - *Status: Completed*
     
-- [Project 02: Brute Force Detection Alert]
+## Project 02: Brute Force Detection Alert
+- **Focus:** Creating custom Wazuh rules to detect multiple failed login attempts.
   - *Status: Coming Soon*
 
 ## Skills
@@ -18,14 +20,14 @@ Welcome to my SOC Analyst portfolio. Here, I document my hands-on experience in 
 - **Endpoint Security:** Sysmon, Windows Security Events
 - **Assessment:** CIS Benchmarks
 - **Environment:** VirtualBox, Windows 11, Linux
-- Log Analysis
-• Windows Security Events
-• Sysmon
-• Event ID Analysis
-• CIS Benchmarks
-• VirtualBox
-• Windows 10/11
-• Linux
+- **Log Analysis**
+- **Windows Security Events**
+- **Sysmon**
+- **Event ID Analysis**
+- **CIS Benchmarks**
+- **VirtualBox**
+- **Windows 11**
+- **Linux**
 
 ## Contact
 - [LinkedIn Profile] https://www.linkedin.com/in/mdyousufali-socanalyst/
