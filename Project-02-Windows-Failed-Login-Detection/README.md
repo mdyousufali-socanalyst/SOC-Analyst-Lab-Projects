@@ -7,7 +7,7 @@ Detect and monitor failed Windows login attempts using Wazuh SIEM to identify po
 ## Lab Environment
 
 * Wazuh Server
-* Windows 10 Endpoint
+* Windows 11 Endpoint
 * Wazuh Agent
 * Windows Security Event Logs
 
