@@ -13,7 +13,7 @@ Welcome to my SOC Analyst portfolio. Here, I document my hands-on experience in 
     
 ## Project 02: Brute Force Detection Alert
 - **Focus:** Creating custom Wazuh rules to detect multiple failed login attempts.
-  - *Status: Coming Soon*
+  - *Status: In Progress*
 
 ## Skills
 - **SIEM:** Wazuh
