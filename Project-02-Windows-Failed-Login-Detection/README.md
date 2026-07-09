@@ -28,10 +28,14 @@ Detect and monitor failed Windows login attempts using Wazuh SIEM to identify po
 * Log collection and monitoring were functioning correctly
 * Security event monitoring was successfully validated
 
-## Screenshots
-
-See attached screenshots inside this project folder.
-
 ## Conclusion
 
 Successfully configured and tested Windows failed login detection using Wazuh SIEM. The lab demonstrated the ability to collect, monitor, and analyze authentication failure events, providing a foundation for brute-force attack detection, threat hunting, and SOC operations.
+
+## Project Screenshots
+
+## Event Viewer Analysis
+![Event Viewer Analysis](event-id-4625-eventviewer.png)
+
+## Wazuh Detection
+![Wazuh Detection](event-id-4625-wazuh.png)
