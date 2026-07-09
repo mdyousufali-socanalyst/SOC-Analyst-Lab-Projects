@@ -11,9 +11,9 @@ Welcome to my SOC Analyst portfolio. Here, I document my hands-on experience in 
   - **Focus:** Monitoring Windows authentication events and analyzing Event ID 4625 failed login attempts.
   - *Status: Completed*
     
-## Project 03: Brute Force Detection Alert
-  - **Focus:** Creating custom Wazuh rules to detect multiple failed login attempts.
-  - *Status: In Progress*
+## Project 03: Junior Security Analyst Intro
+  - **Focus:** SOC basics, alert analysis, and firewall configuration.
+  - *Status: Completed*
 
 ## Skills
 - **SIEM:** Wazuh
