@@ -33,3 +33,6 @@ See attached screenshots inside this project folder.
 ## Conclusion
 
 Successfully deployed a functional Wazuh SIEM lab and connected a Windows endpoint for security monitoring and future threat hunting exercises.
+
+![Wazuh Dashboard](01%20wazuh%20dashboard%20overview.png)
+![CIS Assessment](02%20cis%20assessment%20results.png)
