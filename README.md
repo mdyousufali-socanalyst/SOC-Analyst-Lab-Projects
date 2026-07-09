@@ -5,7 +5,7 @@ Welcome to my SOC Analyst portfolio. Here, I document my hands-on experience in 
 ## Projects
 - [Project 01: Wazuh SIEM Lab Setup & Endpoint Monitoring](https://github.com/mdyousufali-socanalyst/SOC-Lab-Projects/tree/main/Project-01-Wazuh-Lab-Setup)
   - **Focus:** Deploying Wazuh SIEM, Sysmon integration, and CIS compliance assessment.
-  - - **Platform:** Wazuh
+  - **Platform:** Wazuh
   - *Status: Completed*
     
 - [Project 02: Windows Failed Login Detection with Wazuh](https://github.com/mdyousufali-socanalyst/SOC-Lab-Projects/tree/main/Project-02-Windows-Failed-Login-Detection)
