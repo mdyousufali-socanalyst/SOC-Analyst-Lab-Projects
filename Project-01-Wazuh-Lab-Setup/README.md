@@ -33,5 +33,5 @@ Successfully deployed a functional Wazuh SIEM lab and connected a Windows endpoi
 ## Project Screenshots
 ## Wazuh-Dashboard-Overview
 ![Wazuh Dashboard](01-wazuh-dashboard-overview.png)
-## Cis-Assessment-Results
+## CIS-Assessment-Results
 ![CIS Assessment](02-cis-assessment-results.png)
