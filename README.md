@@ -11,7 +11,7 @@ Welcome to my SOC Analyst portfolio. Here, I document my hands-on experience in 
   - **Focus:** Monitoring Windows authentication events and analyzing Event ID 4625 failed login attempts.
   - *Status: Completed*
     
-## Project 03: Junior Security Analyst Intro
+- [Project 03: Junior Security Analyst Intro](https://github.com/mdyousufali-socanalyst/SOC-Analyst-Lab-Projects/tree/main/Project-03-Junior-Security-Analyst-Intro)
   - **Focus:** SOC basics, alert analysis, and firewall configuration.
   - *Status: Completed*
 
