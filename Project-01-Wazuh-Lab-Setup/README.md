@@ -31,5 +31,7 @@ Build a basic SOC homelab using Wazuh and Sysmon to collect and monitor endpoint
 Successfully deployed a functional Wazuh SIEM lab and connected a Windows endpoint for security monitoring and future threat hunting exercises.
 
 ## Project Screenshots
+## Wazuh-Dashboard-Overview
 ![Wazuh Dashboard](01-wazuh-dashboard-overview.png)
+## Cis-Assessment-Results
 ![CIS Assessment](02-cis-assessment-results.png)
