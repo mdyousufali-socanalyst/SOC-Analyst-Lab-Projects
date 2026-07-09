@@ -12,3 +12,6 @@ This project documents my hands-on experience with foundational SOC tasks on Try
 * Alert Triage
 * Firewall Management
 * Log Analysis
+  
+## Project Screenshot
+![Project Screenshot](Junior%20Security%20Analyst%20Intro.png)
