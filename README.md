@@ -31,6 +31,7 @@ Welcome to my SOC Analyst portfolio. Here, I document my hands-on experience in 
 - **VirtualBox**
 - **Windows 11**
 - **Linux**
+- **TryHackMe**
 
 ## Contact
 - [LinkedIn Profile] https://www.linkedin.com/in/mdyousufali-socanalyst/
